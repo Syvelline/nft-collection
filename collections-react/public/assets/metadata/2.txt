@@ -1,0 +1,5 @@
+{
+    "description": "Aurora NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVV5bVaj246QGToqUqTgeVCDJSCd9M796mSLn4RAYyvih?filename=2.png",
+    "name": "Lost child in Aurora"
+}

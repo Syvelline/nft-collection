@@ -1,0 +1,5 @@
+{
+    "description": "Sorcerer NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmS66K1zBntdxkwGkJ9b4sXeLoy6PU9vKVtSmBurUvJu7b?filename=1.png",
+    "name": "The Cursed Sorcerer"
+}

@@ -1,0 +1,5 @@
+{
+    "description": "Cult NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmaaxkhyAUQF6cpWCS1HDUMuCcfCSeKqmw8h5aQjGnyMEK?filename=3.png",
+    "name": "Sylvion The Wise"
+}

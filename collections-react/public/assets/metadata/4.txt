@@ -1,0 +1,5 @@
+{
+    "description": "Apocalypse NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQha3YhCjxGxiHAUkGr2otfxFoqA24JcfF1XJVQA6uvds?filename=4.png",
+    "name": "Post Apocalyptic World"
+}
